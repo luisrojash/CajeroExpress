@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_texto_hint">
+
+        <TextView
+            android:id="@+id/textView2"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="CANTIDAD"
+            android:textColor="@color/md_grey_700"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+        <EditText
+            android:id="@+id/textViewCantidadProductos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:enabled="false"
+            android:inputType="number"
+            android:text="1"
+            android:textColor="@color/md_black_1000"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+        <ImageView
+            android:id="@+id/imageViewRestar"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="24dp"
+            android:src="@drawable/ic_resta"
+            app:layout_constraintBottom_toBottomOf="@+id/textViewCantidadProductos"
+            app:layout_constraintEnd_toStartOf="@+id/textViewCantidadProductos"
+            app:layout_constraintTop_toTopOf="@+id/textViewCantidadProductos" />
+
+        <ImageView
+            android:id="@+id/imageViewSum"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="24dp"
+            android:src="@drawable/ic_suma"
+            app:layout_constraintBottom_toBottomOf="@+id/textViewCantidadProductos"
+            app:layout_constraintStart_toEndOf="@+id/textViewCantidadProductos"
+            app:layout_constraintTop_toTopOf="@+id/textViewCantidadProductos" />
+
+        <FrameLayout
+            android:id="@+id/content_frame"
+            android:layout_width="0dp"
+            android:layout_height="240dp"
+            android:layout_marginTop="16dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/close" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent="0.5" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/toggleFlash"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:layout_weight="1"
+            android:backgroundTint="#FF5722"
+            android:src="@drawable/ic_highlight_black_24dp"
+            android:text="Flash"
+            app:fabSize="mini"
+            app:layout_constraintEnd_toStartOf="@+id/close"
+            app:layout_constraintTop_toTopOf="@+id/close" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/close"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:backgroundTint="#FF5722"
+            android:src="@drawable/ic_close_black_24dp"
+            android:text="x"
+            app:fabSize="mini"
+            app:layout_constraintEnd_toStartOf="@+id/btnCargar"
+            app:layout_constraintTop_toBottomOf="@+id/textViewCantidadProductos" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/btnCargar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:backgroundTint="#FF5722"
+            android:src="@drawable/ic_refresh_black_24dp"
+            android:text="Reload"
+            app:fabSize="mini"
+            app:layout_constraintEnd_toEndOf="@+id/imageViewSum"
+            app:layout_constraintTop_toTopOf="@+id/close" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</layout>

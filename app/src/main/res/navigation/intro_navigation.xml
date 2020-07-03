@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/intro_navigation"
+    app:startDestination="@+id/navigation_local">
+
+    <fragment
+        android:id="@+id/navigation_local"
+        android:name="pe.farmacias.peruanas.cajeroexpress.intro.local.LocalFragment"
+        android:label="@string/app_name"
+        app:defaultNavHost="true"
+        tools:layout="@layout/fragment_local">
+        <action
+            android:id="@+id/action_navigation_intro_to_navigation_login"
+            app:destination="@id/navigation_login"
+            app:enterAnim="@anim/nav_default_pop_enter_anim"
+            app:exitAnim="@anim/nav_default_pop_exit_anim" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_login"
+        android:name="pe.farmacias.peruanas.cajeroexpress.intro.login.LoginFragment"
+        android:label="@string/app_name"
+        app:defaultNavHost="true"
+        tools:layout="@layout/fragment_login">
+    </fragment>
+
+</navigation>

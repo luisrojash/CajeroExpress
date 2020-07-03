@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_principal">
+
+
+
+
+<!--    <fragment-->
+<!--        android:id="@+id/navigation_inicio"-->
+<!--        android:name="pe.farmacias.peruanas.cajeroexpress.principal.inicio.InicioFragment"-->
+<!--        android:label="Inicio Fragment"-->
+<!--        tools:layout="@layout/fragment_inicio"></fragment>-->
+
+
+</navigation>

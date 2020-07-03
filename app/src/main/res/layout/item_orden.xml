@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+
+        <TextView
+            android:id="@+id/number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="1"
+            android:textColor="#000000"
+            android:textSize="15dp"
+            app:layout_constraintBottom_toBottomOf="@+id/textViewEstado"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/textViewEstado" />
+
+
+        <!--        <ImageView-->
+        <!--            android:id="@+id/image"-->
+        <!--            android:layout_width="58dp"-->
+        <!--            android:layout_height="58dp"-->
+        <!--            android:layout_marginStart="8dp"-->
+        <!--            android:layout_marginLeft="8dp"-->
+        <!--            android:src="@drawable/cajerologin"-->
+        <!--            app:layout_constraintStart_toEndOf="@+id/number"-->
+        <!--            app:layout_constraintTop_toTopOf="parent" />-->
+        <TextView
+            android:id="@+id/textViewEstado"
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:gravity="center"
+            android:rotation="-40"
+            android:text=""
+            android:textColor="#000000"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@+id/number"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textViewFecha"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="Instagram"
+            android:textColor="#000000"
+            android:textSize="13dp"
+            app:layout_constraintEnd_toStartOf="@+id/textViewSoles"
+            app:layout_constraintStart_toEndOf="@+id/textViewEstado"
+            app:layout_constraintTop_toTopOf="@+id/textViewEstado" />
+
+
+        <TextView
+            android:id="@+id/textViewNombreUsuario"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Installed 8.7m time(s)"
+            android:textColor="#000000"
+            android:textSize="10dp"
+            app:layout_constraintEnd_toEndOf="@+id/textViewFecha"
+            app:layout_constraintStart_toEndOf="@+id/textViewEstado"
+            app:layout_constraintTop_toBottomOf="@+id/textViewFecha" />
+
+        <TextView
+            android:id="@+id/textViewNombreTarjeta"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Installed 8.7m time(s)"
+            android:textColor="#000000"
+            android:textSize="10dp"
+            android:visibility="gone"
+            app:layout_constraintEnd_toEndOf="@+id/textViewFecha"
+            app:layout_constraintStart_toStartOf="@+id/textViewNombreUsuario"
+            app:layout_constraintTop_toBottomOf="@+id/textViewNombreUsuario" />
+
+
+        <TextView
+            android:id="@+id/textViewCantidadProductos"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Installed 8.7m time(s)"
+            android:textColor="#000000"
+            android:textSize="10dp"
+            app:layout_constraintEnd_toEndOf="@+id/textViewFecha"
+            app:layout_constraintStart_toStartOf="@+id/textViewNombreUsuario"
+            app:layout_constraintTop_toBottomOf="@+id/textViewNombreTarjeta" />
+
+
+        <TextView
+            android:id="@+id/textViewSoles"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/install_rect"
+            android:gravity="center"
+            android:paddingLeft="18dp"
+            android:paddingTop="7dp"
+            android:paddingRight="18dp"
+            android:paddingBottom="7dp"
+            android:text="Install"
+            android:textColor="#000000"
+            android:textSize="10dp"
+            app:layout_constraintBottom_toBottomOf="@+id/textViewEstado"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/textViewEstado" />
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recicladorDetalle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            app:layout_constraintEnd_toEndOf="@+id/textViewSoles"
+            app:layout_constraintStart_toStartOf="@+id/number"
+            app:layout_constraintTop_toBottomOf="@+id/textViewEstado" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginTop="8dp"
+            android:background="@color/color_texmenutop"
+            android:visibility="visible"
+            app:layout_constraintEnd_toEndOf="@+id/textViewSoles"
+            app:layout_constraintStart_toStartOf="@+id/number"
+            app:layout_constraintTop_toBottomOf="@+id/recicladorDetalle" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

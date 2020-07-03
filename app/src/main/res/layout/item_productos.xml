@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="175dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="15dp"
+                android:layout_marginRight="15dp"
+                android:background="#ffffff"
+                android:orientation="vertical"
+                android:paddingBottom="15dp">
+
+                <FrameLayout
+                    android:id="@+id/frameLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/light_gray_rect"
+                    android:paddingBottom="20dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <ImageView
+                        android:id="@+id/btnAgregarCarrito"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_gravity="end"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginEnd="15dp"
+                        android:layout_marginRight="15dp"
+                        android:src="@drawable/ic_add_circle_primary" />
+
+                    <TextView
+                        android:id="@+id/discount"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:background="@drawable/rect2"
+                        android:padding="4dp"
+                        android:text="25%"
+                        android:textColor="#ffffff" />
+
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="130dp"
+                        android:layout_height="100dp"
+                        android:layout_marginStart="18dp"
+                        android:layout_marginLeft="18dp"
+                        android:layout_marginTop="65dp"
+                        android:src="@drawable/shoes3" />
+                </FrameLayout>
+
+
+                <TextView
+                    android:id="@+id/textViewPrecioNormal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="$120"
+                    android:textColor="#ef4e33"
+                    android:textSize="14sp"
+                    app:layout_constraintStart_toStartOf="@+id/frameLayout"
+                    app:layout_constraintTop_toBottomOf="@+id/frameLayout" />
+
+                <TextView
+                    android:id="@+id/textViewPrecioTachado"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:text="$120"
+                    android:textColor="#8A8989"
+                    android:textSize="14sp"
+                    app:layout_constraintStart_toEndOf="@+id/textViewPrecioNormal"
+                    app:layout_constraintTop_toBottomOf="@+id/frameLayout" />
+
+
+                <TextView
+                    android:id="@+id/textViewNombre"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="Ninja high top\nsneackers"
+                    android:textColor="#000000"
+                    android:textSize="15sp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textViewPrecioNormal" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </LinearLayout>
+
+
+</layout>

@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Android-Image-Slider/app/src/main/java/com/smarteist/imageslider/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Android-Image-Slider/autoimageslider/src/main/java/com/smarteist/autoimageslider/SliderView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Android-RecyclerView-Loadmore/app/src/main/java/com/recyclerview/loadmore/adapter/GridAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Android-RecyclerView-Loadmore/app/src/main/java/com/recyclerview/loadmore/fragment/GridLayoutFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Android-RecyclerView-Loadmore/app/src/main/java/com/recyclerview/loadmore/fragment/LinearLayoutFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Android-RecyclerView-Loadmore/app/src/main/java/com/recyclerview/loadmore/fragment/StaggeredGridLayoutFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Android-RecyclerView-Loadmore/app/src/main/java/com/recyclerview/loadmore/listener/OnLoadMoreListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Android-RecyclerView-Loadmore/app/src/main/java/com/recyclerview/loadmore/listener/RecyclerViewLoadMoreScroll.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Android-RecyclerView-Loadmore/app/src/main/java/com/recyclerview/loadmore/model/DataView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BottomNavigationBar/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/cpp/native-lib.cpp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/CajeroApp.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/Inject.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/MainActivity2.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/Utils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/Utils.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/base/BaseAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/base/baseAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/base/loadMore/OnLoadMoreListener.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/base/loadMore/RecyclerViewLoadMoreScroll.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/base/loadMore/gridlayout/SquareFrameLayout.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/base/loadMore/holder/ProgressHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/db/CajeroDB.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/detalles/DetallesActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/detalles/adapter/DetallesAdater.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/detalles/adapter/SimilaresAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/detalles/adapter/holder/DetallesHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/detalles/adapter/holder/SimilaresHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/detalles/ui/DetallesUi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/detalles/ui/SimilaresUi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/login/LoginActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/login/LoginActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/model/Carrito.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/principal/PrincipalActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/principal/PrincipalFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/principal/PrincipalViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/principal/PrincipalViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/principal/categorias/CategoriasFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/principal/categorias/adapter/CategoriasAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/principal/categorias/adapter/holder/CategoriasHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/principal/categorias/model/CategoriasUi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/principal/perfil/PerfilFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/principal/productos/ProductosFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/principal/productos/adapter/ProductosAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/principal/productos/adapter/holder/ProductosHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/principal/productos/model/ProductosUi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/principal/ui/PerfilFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/ui/home/HomeFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/ui/home/adapter/CategoriaAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/ui/home/adapter/HomeAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/ui/home/adapter/holder/CategoriaAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/ui/home/adapter/holder/CategoriaHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/ui/home/adapter/holder/CategoriaHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/ui/home/adapter/holder/HomeHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/ui/home/adapter/holder/HomeHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/ui/home/model/CategoriaUi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/ui/home/model/HomeUi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/pe/farmacias/peruanas/cajeroexpress/util/Constantes.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/color/gradient_background.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/bg_bottom_navi_normal.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/bg_bottom_navi_selected.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/bg_circle.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/bg_circle_primary.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/bg_overlay.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/gradient_background.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_add_circle_primary.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_error5.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_keyboard_arrow_left_black_24dp.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_like_heart_outline.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/ic_share_alt.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/light_gray_rect.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/rect2.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/rect_red.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/rect_white.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/rect_whiteboder.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/rounded_shape.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/search_icon.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_detalles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_principal.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fargment_perfil.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_categorias.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_dashboard.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_notifications.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_perfil.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_productos.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_categoria.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_categorias.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_detalles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_productos.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_progress_bar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_similares.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/toolbar_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/toolbar_product_details.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/menu/bottom_nav_menu.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Generic-adapter-with-kotlin/app/src/main/java/com/mohan/genericadapter/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../KoinExample/app/src/main/java/com/github/harmittaa/koinexample/fragment/WeatherViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../KoinExample/app/src/main/java/com/github/harmittaa/koinexample/networking/ResponseHandler.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../KoinExample/app/src/main/java/com/github/harmittaa/koinexample/repository/WeatherRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../KoinExample/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LEGO-Catalog/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LEGO-Catalog/app/build/generated/source/buildConfig/debug/com/elifox/legocatalog/BuildConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LEGO-Catalog/app/src/main/java/com/elifox/legocatalog/di/AppModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LEGO-Catalog/app/src/main/java/com/elifox/legocatalog/legotheme/ui/LegoThemeAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LEGO-Catalog/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LoadMoreAndroidExample/app/src/main/java/com/example/loadmoreexample/Constant.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LoadMoreAndroidExample/app/src/main/java/com/example/loadmoreexample/GridRecyclerView/GridRecyclerViewActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LoadMoreAndroidExample/app/src/main/res/layout/progress_loading.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MagicPrint-ECommerce-App-Android/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MagicPrint-ECommerce-App-Android/app/src/main/res/color/gradient_background.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MagicPrint-ECommerce-App-Android/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NewsSearcherV4/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NewsSearcherV4/app/build/generated/source/buildConfig/debug/khalid/com/newssearcherv4/BuildConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NewsSearcherV4/app/src/main/java/khalid/com/newssearcherv4/network/NewsApiService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../NewsSearcherV4/app/src/main/java/khalid/com/newssearcherv4/ui/NewsViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../fps-app-apk-dermatologiapos/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../fps-app-apk-dermatologiapos/app/src/main/java/com/farmaciasperuanas/dermaapp/main/promocion/PromocionFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../fps-app-apk-dermatologiapos/app/src/main/java/com/farmaciasperuanas/dermaapp/main/promocion/PromocionRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../fps-app-apk-dermatologiapos/app/src/main/res/drawable/ic_shopping_cart.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../fps-app-apk-dermatologiapos/app/src/main/res/layout/fragment_promocion.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../fps-app-apk-dermatologiapos/app/src/main/res/layout/item_productos.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../fps-app-apk-dermatologiapos/app/src/main/res/layout/item_promocion.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../fps-app-apk-dermatologiapos/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/pagos/MyApplication_noEncry_normal-emv-nfc-demo/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/POSventa/SDK_ReleaseforAndroid/SDK_release/PICCManager/src/com/example/piccmanager/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/ProyectoFerreteria/FerreteriaApp/app/src/main/java/com/example/ferreteriaapp/principal/zocalos/adapter/ZocalosAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/UIXAndroid/AppStore_Placeholder/app/src/main/java/design/ws/com/appstore/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/UIXAndroid/CryptoStar/app/src/main/res/layout/activity_wssplash_screen.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/UIXAndroid/TREVOR E-COMM/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/UIXAndroid/TREVOR E-COMM/app/src/main/res/drawable/light_gray_rect.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/UIXAndroid/TREVOR E-COMM/app/src/main/res/layout/activity_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/UIXAndroid/TREVOR E-COMM/app/src/main/res/layout/item_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/UIXAndroid/holliday/Holliday/app/src/main/java/com/example/rp/holliday/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/UIXAndroid/holliday/Holliday/app/src/main/res/layout/signup.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
